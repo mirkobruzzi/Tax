@@ -1,0 +1,30 @@
+[
+  {
+  "units": "1",
+  "price": "27.99",
+  "description": "bottle of porfume",
+  "imported": "true",
+    "hasExtraTax": "true"
+  },
+  {
+    "units": "1",
+    "price": "18.99",
+    "description": "bottle of porfume",
+    "imported": "false",
+    "hasExtraTax": "true"
+  },
+  {
+    "units": "1",
+    "price": "9.75",
+    "description": "packet of headache pills",
+    "imported": "false",
+    "hasExtraTax": "false"
+  },
+  {
+    "units": "1",
+    "price": "11.25",
+    "description": "box of chocolates",
+    "imported": "true",
+    "hasExtraTax": "false"
+  }
+]

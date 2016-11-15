@@ -1,0 +1,6 @@
+{
+  "units": "number",
+  "price":"number",
+  "description": "text",
+  "imported": "boolean"
+}

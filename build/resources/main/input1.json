@@ -1,0 +1,23 @@
+[
+  {
+  "units": "1",
+  "price": "12.49",
+  "description": "book",
+  "imported": "false",
+    "hasExtraTax": "false"
+  },
+  {
+    "units": "1",
+    "price": "14.99",
+    "description": "music CD",
+    "imported": "false",
+    "hasExtraTax": "true"
+  },
+  {
+    "units": "1",
+    "price": "0.85",
+    "description": "chocolate bar",
+    "imported": "false",
+    "hasExtraTax": "false"
+  }
+]

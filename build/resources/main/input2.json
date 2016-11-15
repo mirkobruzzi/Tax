@@ -1,0 +1,16 @@
+[
+  {
+  "units": "1",
+  "price": "10.00",
+  "description": "box of chocolates",
+  "imported": "true",
+    "hasExtraTax": "false"
+  },
+  {
+    "units": "1",
+    "price": "47.50",
+    "description": "bottle of porfume",
+    "imported": "true",
+    "hasExtraTax": "true"
+  }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tax.iml" filepath="$PROJECT_DIR$/.idea/modules/tax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tax_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tax_main.iml" group="tax" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tax_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tax_test.iml" group="tax" />
+    </modules>
+  </component>
+</project>
