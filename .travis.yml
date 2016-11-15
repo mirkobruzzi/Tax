@@ -8,4 +8,4 @@ os:
 before_script:
 - chmod a+x gradlew
 
-sccript: ./gradlew build
+script: ./gradlew build
