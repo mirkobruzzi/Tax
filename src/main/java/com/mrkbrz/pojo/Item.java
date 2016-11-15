@@ -4,7 +4,7 @@ package com.mrkbrz.pojo;
  * Created by Mirko Manuel Burzzi on 11/14/16.
  * This Java Bean wraps all the property that are in the input file
  */
-public class Item {
+public class Item implements Cloneable{
 
     private Number units;
 
@@ -58,6 +58,15 @@ public class Item {
 
     public void setHasExtraTax(Boolean hasExtraTax) {
         this.hasExtraTax = hasExtraTax;
+    }
+
+    public Item cloneObject(){
+        try {
+            return (Item) super.clone();
+        } catch (CloneNotSupportedException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     @Override
