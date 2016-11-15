@@ -1,7 +1,4 @@
 language: java
-gradle check
-sudo: false
-addons:
-  apt:
-    packages:
-      - oracle-java8-installer
+sudo: true
+jdk:
+    -oraclejdk8
